@@ -4,4 +4,7 @@ using System.Text;
 
 namespace ProGrupalSystemVentaComiRapida
 {
+    public class Venta
+    {
+    }
 }

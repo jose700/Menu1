@@ -4,10 +4,9 @@ using System.Text;
 
 namespace ProGrupalSystemVentaComiRapida
 {
-    public class ComidaRapida
+    public class Alimentos
     {
-
-        public int Cantidad
+        public int Id
         {
             get => default;
             set
@@ -15,7 +14,7 @@ namespace ProGrupalSystemVentaComiRapida
             }
         }
 
-        public int Iva
+        public int DescripcionComidaRapida
         {
             get => default;
             set
@@ -23,7 +22,7 @@ namespace ProGrupalSystemVentaComiRapida
             }
         }
 
-        public int Precio
+        public int DescripcionBebidas
         {
             get => default;
             set
@@ -31,7 +30,15 @@ namespace ProGrupalSystemVentaComiRapida
             }
         }
 
-        public int IdCo
+        public int CantidadDeComidaRapida
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
+        public int CantidadDeBebidas
         {
             get => default;
             set

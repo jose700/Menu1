@@ -7,32 +7,32 @@
       <FileName>Cliente.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ProGrupalSystemVentaComiRapida.ComidaRapida">
-    <Position X="2.25" Y="0.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAEBAAAAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAA=</HashCode>
-      <FileName>ComidaRapida.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="ProGrupalSystemVentaComiRapida.Bebidas">
-    <Position X="4.25" Y="0.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
-      <FileName>Bebidas.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="ProGrupalSystemVentaComiRapida.StockComida">
+  <Class Name="ProGrupalSystemVentaComiRapida.StockAlimentos">
     <Position X="6.25" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>DescuentoComida.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StockALimentos.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ProGrupalSystemVentaComiRapida.StockBebida">
-    <Position X="8.25" Y="0.75" Width="1.5" />
+  <Class Name="ProGrupalSystemVentaComiRapida.Alimentos">
+    <Position X="2.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>DescuentoBebida.cs</FileName>
+      <HashCode>AAACAAABAAAAAAAgAAAAAAgAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Alimentos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProGrupalSystemVentaComiRapida.StockCliente">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StockCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProGrupalSystemVentaComiRapida.Venta">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Venta.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
